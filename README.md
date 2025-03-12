@@ -19,6 +19,13 @@ A secure and responsive card validator that checks card details like number, exp
 - ✅ Successful Validation
 - ❌ Error Message
 
+## 📸 Video
+<video width="600" controls>
+  <source src="ccvalidator.mpv" type="video/mpv">
+  Your browser does not support the video tag.
+</video>
+
+
 ## ⚙️ How to Use
 1. Clone the repository:
     ```bash
